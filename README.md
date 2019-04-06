@@ -1,6 +1,6 @@
 ## triadR
 
-triadR: An R package for triadic relations model<br />
+triadR: An R package for triadic analysis<br />
 Developer: Man-Nok, Wong & David A. Kenny<br />
 Contact: Man-Nok, Wong (mannok@mnwong.com)<br />
 Last Update: 12/02/2019
